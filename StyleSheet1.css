@@ -1,0 +1,172 @@
+﻿
+body
+{
+    overflow-x:hidden;
+ 
+}
+.jumbotron 
+{
+
+background-image:url(/images/lines.jpg);
+  background-repeat: no-repeat;
+background-attachment:fixed;
+text-align:center;
+background-size:cover;
+color:white;
+}  
+
+.name1{
+
+display:block;
+font-size:40px; 
+font-family:Aparajita;
+color:white;
+}
+.name2{
+
+display:block;
+font-size:50px;
+font-family:Aparajita;
+color:white;
+}
+.para{
+    
+    font-size: 30px;
+    font-family: Aparajita;
+    text-align: center;
+    color:white;
+}
+/*.para1{
+font-size:30px;
+font-family:Aparajita;
+text-align:center;
+color:navajowhite;
+}*/
+.light{
+text-align:center;
+    width: 100%;
+    background:#FFF;
+    color: #3d3d3d;
+}
+#img1{
+    /*margin:0px auto;
+padding-top:100px;*/
+    width: 150px;
+/*height:300px;
+display:block;*/
+}
+.para2
+{
+font-size:20px;
+/*margin:75px;
+margin-bottom:25px;*/
+}
+
+.blk
+{
+border: 2px solid #2C3539;
+color:#2C3539;
+}
+#btn
+{
+border: 2px solid black;
+width:150px;
+height:50px;
+text-decoration:none;
+padding-top:18px;
+color:black;
+font-size:12px;
+}
+
+#btn:hover
+{
+background:black;
+color:white;
+}
+
+/*.fifty1{
+float:left;
+width:50%;
+}
+.fifty2{
+float:right;
+width:50%;
+}*/
+.left-half
+{
+    background-color:beige;
+}
+.right-half
+{
+    background-color:beige;
+}
+
+#line
+{
+width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #000; 
+   line-height: 0.1em;
+   margin: 10px 0 10px;
+}
+
+#line1
+{
+background:#fff; 
+    padding:0 10px; 
+font-family:"Roboto";
+} 
+#contri{
+width:200px;
+}
+#contri1 {
+    width: 300px;
+}
+.para3{
+    text-align:center;
+/*padding-left:30px;
+padding-right:20px;
+line-height: 20px;*/
+font-size:20px;
+}
+
+.panel
+{    
+    padding: 0;
+    margin-bottom: 50px;
+    display: block;
+    list-style-type: none;
+    text-align: center;
+    overflow: hidden;
+   
+
+}
+
+.dark1 {
+    background-image: url(/images/black.jpg);
+    background-size: cover;
+    background-position: center center;
+    color:white;
+}
+
+.icon a {
+    float: left;
+    width: 20%;
+    text-align: center;
+    padding-left: 12px 0;
+    color: black;
+    font-size: 36px;
+      margin-bottom:0;
+}
+.icon a:hover {
+    background-color: lightgray;
+}
+
+.ima
+{
+    width:200px;
+    height:150px;
+    
+
+}
+
